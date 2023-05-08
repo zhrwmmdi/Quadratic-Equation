@@ -5,7 +5,7 @@ First instantiate an object from Methods class in order to be able to use the me
 		Enter a, b and c in the target quadratic equation:
 		1 -7 12
 		Your target equation is +1.00 x^2 -7.00 x +12.00 = 0
-		The answers are	x1 = 4.00	x2 = 3.00\
+		The answers are	x1 = 4.00	x2 = 3.00
 
 or like this:
 
